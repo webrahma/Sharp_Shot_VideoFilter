@@ -30,7 +30,7 @@ since this version uses manual path configuration for better control during deve
 
 Example:
 ```bash
-python sharp_shot.py my_video.mp4 --n 5 --interval 2.0
+python sharp_shot.py my_video.mp4 --n 5 --interval 1.0
 ```
 
 ## Project Structure
