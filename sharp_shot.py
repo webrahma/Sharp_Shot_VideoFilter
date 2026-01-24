@@ -95,8 +95,8 @@ def process_video(video_path, output_dir, top_n=5, min_interval_sec=1.0):
 #it help my use the progrem to use again as a libarary 
 if __name__ == "__main__":
    
-    video_path = r"sharp_shot_project\photos.mp4"
-    output_folder = r"Sharp_shot_project\output"
+    video_path = r"photos.mp4"
+    output_folder = r"output"
     
     #run program 
     process_video(video_path, output_folder, 5, 1.0)
